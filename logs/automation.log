@@ -1,0 +1,23 @@
+2025-04-15 15:49:40 INFO  Utils:112 - [TestNG] Running:
+  /home/shiv/eclipse-workspace/openCart/testng.xml
+
+2025-04-15 15:51:41 INFO  Utils:112 - [TestNG] Running:
+  /home/shiv/eclipse-workspace/openCart/testng.xml
+
+2025-04-15 15:51:42 INFO  tc_01_Registrationpage:15 - starting the test cases
+2025-04-15 15:51:43 INFO  tc_01_Registrationpage:19 - enrtered firstname
+2025-04-15 15:51:47 INFO  tc_01_Registrationpage:32 - submit button clicked
+2025-04-15 15:51:47 INFO  tc_01_Registrationpage:43 - finished
+2025-04-15 16:56:32 INFO  Utils:112 - [TestNG] Running:
+  /home/shiv/eclipse-workspace/openCart/testng.xml
+
+2025-04-15 16:56:46 INFO  Utils:112 - [TestNG] Running:
+  /home/shiv/eclipse-workspace/openCart/testng.xml
+
+2025-04-15 16:57:50 INFO  Utils:112 - [TestNG] Running:
+  /home/shiv/eclipse-workspace/openCart/testng.xml
+
+2025-04-15 16:57:52 INFO  tc_01_Registrationpage:18 - starting the test cases
+2025-04-15 16:57:52 INFO  tc_01_Registrationpage:22 - enrtered firstname
+2025-04-15 16:57:56 INFO  tc_01_Registrationpage:35 - submit button clicked
+2025-04-15 16:57:56 INFO  tc_01_Registrationpage:46 - finished

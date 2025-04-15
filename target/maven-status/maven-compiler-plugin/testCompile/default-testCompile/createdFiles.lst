@@ -1,0 +1,7 @@
+testCases/tc_01_Registrationpage.class
+pageObjects/LoginPage.class
+pageObjects/AccountRegisterPage.class
+pageObjects/BasePage.class
+testCases/Baseclass.class
+testCases/tc_02_loginpage.class
+pageObjects/Homapge.class
